@@ -27,3 +27,5 @@ modificado para **negrito**.
 
 Uma palavra cercada por 3 asteriscos em cada lado será seu formato 
 modificado para ***negrito/itálico***
+
+Estas são as modificações que podem ser feitas usando o asterisco! 
