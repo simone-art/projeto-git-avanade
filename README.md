@@ -38,3 +38,24 @@ Para escrever um parágrafo com destaque utilizamos o simbolo >.
 
 Os parágrafos acima estão destacados do restante do texto escrito.
 
+## Itálicos, negritos e Itálicos
+Os negritos e itálicos são representados pelo símbolo * ou_
+
+Uma palavra cercada por 1 asterisco em cada lado será seu formato 
+modificado para *itálico*. 
+
+Uma palavra cercada por 2 asteriscos em cada lado será seu formato 
+modificado para **negrito**.
+
+Uma palavra cercada por 3 asteriscos em cada lado será seu formato 
+modificado para ***negrito/itálico***
+
+Estas são as modificações que podem ser feitas usando o asterisco! 
+
+## Criação de Hyperlinks
+A criacao de hyperlinks e feita através dos simbolos []().
+Onde o conteúdo dos colchetes e o texto que será exibido 
+e o conteúdo do parêntesis é o link a ser redirecionado. 
+Ex: [Google] (www.google.com)
+
+
