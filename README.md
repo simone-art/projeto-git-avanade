@@ -29,3 +29,12 @@ Uma palavra cercada por 3 asteriscos em cada lado será seu formato
 modificado para ***negrito/itálico***
 
 Estas são as modificações que podem ser feitas usando o asterisco! 
+
+**Parágrafo com destaque**
+
+Para escrever um parágrafo com destaque utilizamos o simbolo >.
+
+>Esse é um parágrafo destacado do resto do texto. Esse qui também e assim por diante.
+
+Os parágrafos acima estão destacados do restante do texto escrito.
+
